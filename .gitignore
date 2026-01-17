@@ -31,6 +31,7 @@ wheels/
 backend/uploads/
 backend/faiss_index/
 backend/*.pyc
+backend/.langgraph_api/
 
 # HuggingFace models cache (can be large)
 backend/.cache/
