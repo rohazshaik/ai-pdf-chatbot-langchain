@@ -1,0 +1,21 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+pydantic==2.5.3
+
+# LangChain and LangGraph - latest compatible versions
+langchain
+langchain-community
+langchain-text-splitters
+langgraph
+
+# PDF Processing
+pypdf==3.17.4
+
+# Embeddings and Vector Store
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+
+# HTTP requests for LLM APIs
+requests==2.31.0

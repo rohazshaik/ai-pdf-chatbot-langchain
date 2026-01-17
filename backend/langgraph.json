@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "upload_agent": "./graph.py:upload_graph",
+        "query_agent": "./graph.py:query_graph"
+    },
+    "env": ".env"
+}
